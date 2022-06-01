@@ -1,0 +1,2 @@
+# KopperBotDiscord
+ Bot de discord.
